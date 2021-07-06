@@ -126,18 +126,6 @@ nav ul li{
     transition: all 0.3s ease 0s;
   }
 
-  /*--  header area ----*/
-  #header{
-      min-height: 90px;
-  }
-  .main-menu{
-      float: right;
-  }
-  nav ul li a{
-    font-size: 16px;
-    font-weight: 600;
-    float: right;
-  }
   /* ---hero area -----*/
   .hero-area{
       padding: 100px 0;
